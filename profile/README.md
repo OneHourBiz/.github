@@ -1,7 +1,7 @@
 <div align="center">
   <img height="100" src="https://user-images.githubusercontent.com/102568331/203838258-50ac6eb0-2b5b-41cb-9094-93dad87ab6e2.png"/>
   <h1>Math Climb</h1>
-  <p>Nature is written in mathematical language — Galileo Galilei</p>
+  <p>Bite-size biz that you create and run in one hour per day.</p>
   <a href="https://github.com/MathClimb/.github/blob/main/JOIN.md"><b>JOIN</b></a>
 
 #
