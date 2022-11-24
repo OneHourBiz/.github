@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/116753704/198101944-adf1924a-d41e-4966-bb8d-d2f11350fac9.png"/>
+  <img height="100" src="https://user-images.githubusercontent.com/102568331/203838258-50ac6eb0-2b5b-41cb-9094-93dad87ab6e2.png"/>
   <h6>One Hour Biz</h6>
   <h1><b>COMMUNITY</b></h1>
   <p>Bite-size biz that you create and run in one hour per day.</p>
