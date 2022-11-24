@@ -1,23 +1,23 @@
 <div align="center">
   <img height="100" src="https://user-images.githubusercontent.com/102568331/203838258-50ac6eb0-2b5b-41cb-9094-93dad87ab6e2.png"/>
-  <h6>One Hour Biz</h6>
-  <h1><b>COMMUNITY</b></h1>
-  <p>Bite-size biz that you create and run in one hour per day.</p>
-  <a href="https://github.com/OneHourBiz/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/OneHourBiz/.github">About</a> | <a href="https://github.com/OneHourBiz/community">Community</a> | <a href="https://github.com/orgs/OneHourBiz/discussions">Discussions</a> | <a href="https://github.com/OneHourBiz/community/wiki">Wiki</a>  | 
-</div>
+  <h1>Math Climb</h1>
+  <p>Nature is written in mathematical language — Galileo Galilei</p>
+  <a href="https://github.com/MathClimb/.github/blob/main/JOIN.md"><b>JOIN</b></a>
+
+#
 
 <div align="center">
+  <h3>:milky_way:</h3>
+  <details open><summary><h2><a href="https://github.com/MathClimb/community">Community</a></h2></summary>
 
-## Projects 
-  
-| Project | Links |
-|-|-|
-| [:inbox_tray: Inbox](https://github.com/OneHourBiz/inbox) | [README](https://github.com/OneHourBiz/inbox/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/inbox/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/inbox/issues/3)&ensp;[New]() |
-| [:sunglasses: Awesome](https://github.com/OneHourBiz/awesome) | [README](https://github.com/OneHourBiz/awesome/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/awesome/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/awesome/issues/3)&ensp;[New]() |
-| [:triangular_ruler: Blueprint](https://github.com/OneHourBiz/blueprint) |[README](https://github.com/OneHourBiz/blueprint/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/blueprint/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/blueprint/issues/3)&ensp;[New]() |
-| [:incoming_envelope: Newsletter](https://github.com/OneHourBiz/newsletter) | [README](https://github.com/OneHourBiz/newsletter/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/newsletter/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/newsletter/issues/3)&ensp;[New]() |
-| [:handshake: Services](https://github.com/OneHourBiz/services) | [README](https://github.com/OneHourBiz/services/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/services/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/services/issues/3)&ensp;[New]() |
-| [:business_suit_levitating: Job Board](https://github.com/OneHourBiz/jobs) | [README](https://github.com/OneHourBiz/jobs/issues/1)&ensp;[Directory](https://github.com/OneHourBiz/jobs/issues/2)&ensp;[Topics](https://github.com/OneHourBiz/jobs/issues/3)&ensp;[New]() |
+  | <sub>1</sub> | <sub>2</sub> | <sub>3</sub> | <sub>4</sub> | <sub>5</sub> | <sub>6</sub> | <sub>7</sub> | <sub>8</sub> |
+  |-|-|-|-|-|-|-|-|
+  | <a href="https://github.com/MathClimb/.github" title=""><p align="center">:tada:</p>About</a> | <a href="https://github.com/MathClimb/awesome" title=""><p align="center">:sunglasses:</p>Awesome</a>  | <a href="https://github.com/orgs/mathclimb/discussions" title=""><p align="center">:speech_balloon:</p>Discussion</a> | <a href="https://github.com/mathclimb/community/wiki" title=""><p align="center">:classical_building:</p>Wiki</a> | <a href="https://github.com/MathClimb/newsletter" title=""><p align="center">:incoming_envelope:</p>Newsletter</a> | <a href="https://github.com/MathClimb/services" title=""><p align="center">:handshake:</p>Services</a> | <a href="https://github.com/MathClimb/jobs" title=""><p align="center">:business_suit_levitating:</p>Job Board</a> | <a href="https://github.com/MathClimb/shop" title=""><p align="center">:money_with_wings:</p>Shop</a> |
+    
+  </details>
+</div>
+
+#
 
 </div>
 
